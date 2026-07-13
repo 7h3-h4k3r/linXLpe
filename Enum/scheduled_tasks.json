@@ -1,0 +1,24 @@
+{
+    "scheduled_tasks": {
+        "title": "Scheduled tasks",
+        "results": {
+            "Checking for daily cron Jobs": [
+                true,
+                [
+                    "total 52",
+                    "drwxr-xr-x   2 root root  4096 Jun  3 08:09 .",
+                    "drwxr-xr-x 164 root root 12288 Jul 11 14:19 ..",
+                    "-rwxr-xr-x   1 root root   311 Sep 25  2023 0anacron",
+                    "-rwxr-xr-x   1 root root   376 Jul  8  2025 apport",
+                    "-rwxr-xr-x   1 root root  1478 Mar 22  2024 apt-compat",
+                    "-rwxr-xr-x   1 root root   123 Feb  5  2024 dpkg",
+                    "-rwxr-xr-x   1 root root   377 Apr  8  2024 logrotate",
+                    "-rwxr-xr-x   1 root root  1395 Mar 30  2024 man-db",
+                    "-rw-r--r--   1 root root   102 Mar 31  2024 .placeholder",
+                    "-rwxr-xr-x   1 root root   652 Aug  1  2023 plocate",
+                    "-rwxr-xr-x   1 root root   518 Jan 10  2024 sysstat"
+                ]
+            ]
+        }
+    }
+}
