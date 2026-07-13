@@ -1,11 +1,11 @@
-Here's a professional `README.md` you can use for your project.
+
 
 # <p align="center">
 
-  <img src="logo/linXlpe.png" alt="LinuxLPE Logo" width="180">
+  <img src="logo/linXlpe.png" alt="LinuxLPE Logo" algin="center" width="180">
 </p>
 
-<h1 align="center">LinuxLPE</h1>
+<h1 align="center">LinXLpe</h1>
 
 <p align="center">
   <b>A modular Linux Local Privilege Escalation Enumeration Framework</b>
@@ -120,20 +120,16 @@ LinuxLPE/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/LinuxLPE.git
+git clone https://github.com/7h3-h4k3r/linXLpe.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd LinuxLPE
+cd linXLpe
 ```
 
-Install dependencies:
 
-```bash
-pip install -r requirements.txt
-```
 
 ---
 
