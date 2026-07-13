@@ -1,8 +1,8 @@
 
 
-# <p align="center">
+<p align="center">
 
-  <img src="logo/linXlpe.png" alt="LinuxLPE Logo" algin="center" width="180">
+  <img src="logo/linXlpe.png" alt="LinuxLPE Logo"  width="180">
 </p>
 
 <h1 align="center">LinXLpe</h1>
